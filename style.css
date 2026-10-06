@@ -1,0 +1,13 @@
+* {
+   box-sizing: border-box;
+}
+
+.app {
+   width: 50vw;
+   align-items: center;
+   gap: 10px;
+}
+
+input {
+   width: 100%;
+}
